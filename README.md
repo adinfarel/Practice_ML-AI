@@ -1,4 +1,4 @@
-# Kaggle Practice Notebooks
+# Practice ML-AI
 
 ## Description
 This repository contains practice notebooks in **Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI)** using datasets and reference code from Kaggle.  
